@@ -1,6 +1,0 @@
-.img {
-  background: linear-gradient(rgba(0, 33, 48, 0.5), rgba(0, 33, 48, 0.5)),
-    url("TSS_Home.jpg");
-  mask-repeat: no-repeat;
-  background-size: cover;
-}
