@@ -49,7 +49,7 @@ CREATE TABLE IF NOT EXISTS `adminlogin` (
 --
 
 INSERT INTO `adminlogin` (`username`, `password`) VALUES
-('adbmsadmin@123', 'adbms@password');
+('admin', 'password');
 
 -- --------------------------------------------------------
 
